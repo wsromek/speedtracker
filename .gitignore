@@ -1,5 +1,6 @@
 .sass-cache
 .jekyll-metadata
+.idea
 _site/
 node_modules/*
 npm-debug.log
